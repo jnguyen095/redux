@@ -1,6 +1,6 @@
-### Redux basic tutorial
+## Redux basic tutorial
 
-## Installation
+### Installation
 
 ```bash
 git clone https://github.com/jnguyen095/redux.git
